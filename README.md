@@ -54,12 +54,14 @@ The dataset contains daily records of coal stock levels across various Indian po
 ---
 
 ## 📁 Folder Structure
-📦coal-stock-eda
-┣ 📄 daily-coal-stocks.csv.xlsx # Raw dataset 
-┣ 📄 cleaned_coal_stock.csv # Final cleaned dataset 
-┣ 📄 coal_stock_eda.ipynb # EDA notebook with full code 
-┣ 📄 README.md # Project overview and instructions 
 
+```bash
+📦coal-stock-eda  
+ ┣ 📄 daily-coal-stocks.csv.xlsx     # Raw dataset  
+ ┣ 📄 cleaned_coal_stock.csv         # Final cleaned dataset  
+ ┣ 📄 coal_stock_eda.ipynb           # EDA notebook with full code  
+ ┣ 📄 README.md                      # Project overview and instructions  
+```
 
 ---
 
